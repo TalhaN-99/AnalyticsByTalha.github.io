@@ -74,6 +74,8 @@ input, select, textarea {
 
 /* Basic */
 
+
+
 	@-ms-viewport {
 		width: device-width;
 	}
@@ -81,6 +83,7 @@ input, select, textarea {
 	body {
 		-ms-overflow-style: scrollbar;
 	}
+	
 
 	@media screen and (max-width: 480px) {
 
@@ -3470,7 +3473,7 @@ input, select, textarea {
 
 			#intro {
 				padding: 3rem 2rem 1rem 2rem ;
-				min-height: 80vh;
+				min-height: 45vh;
 			}
 
 				#intro h1 {
